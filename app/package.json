@@ -24,7 +24,7 @@
     "analysis"
   ],
   "author": "Bob Dodd",
-  "license": "MIT",
+  "license": "GPL-3.0-or-later",
   "devDependencies": {
     "electron": "^39.2.7"
   },

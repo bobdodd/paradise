@@ -110,4 +110,4 @@ Paradise maps issues to WCAG 2.1 success criteria:
 
 **Maintained by:** Paradise Development Team
 **Last Updated:** January 2026
-**License:** MIT
+**License:** GPL-3.0-or-later

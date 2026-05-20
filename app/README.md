@@ -295,7 +295,7 @@ node src/cli.js demo/js/inaccessible/*.js
 
 ## License
 
-MIT
+GPL-3.0-or-later
 
 ## Contributing
 
